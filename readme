@@ -1,0 +1,8 @@
+这两个脚本都是使用中国国家气象局天气预报的数据
+
+weather.py 是使用BeautifulSoup来解析html返回数据的
+用法：python weather.py
+
+weather_cn.py 是使用中国国家气象局天气预报接口返回json数据，通过解析json得到天气数据
+用法：python weather.py [城市名]
+城市名默认为西安
