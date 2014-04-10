@@ -1,8 +1,8 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 ##############################
-# Author: Fengye
-# E-mail: whyfengye@gmail.com
+# Author: leaffeng
+# E-mail: yfengye@gmail.com
 ##############################
 
 import urllib2, json
